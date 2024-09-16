@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yukuwifevu.vercel.app/sitemap.xml
